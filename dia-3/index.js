@@ -1,3 +1,5 @@
+//Calculando imc + dados da idade
+
 let nome = prompt('Digite seu nome: ');
 let idade = parseInt(prompt('Digite sua idade: '));
 let altura = parseInt(prompt('Digite sua altura: '));

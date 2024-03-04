@@ -1,4 +1,4 @@
-/*/criação das variáveis
+//criação das variáveis
 
 let mediageral = 0
 let qtdHomens = 0
@@ -35,7 +35,7 @@ console.log("A quantidade de mulhers que tiveram nota acima de 7 foi: " + qtdMul
 console.log("A maior nota entre os alunos foi: " + maiornotaHomens)
 
 
-/*/
+
 
 let saldo = 1000; //iniciando o saldo com o valor 
 let maiorValorInserido = 0;
